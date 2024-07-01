@@ -16,7 +16,8 @@ Sistema de ponto eletrônico para uma gráfica com o objetivo de modernizar e au
 
 ## Contribuições
 Este projeto foi um passo importante na minha jornada de desenvolvimento de software, permitindo-me aplicar e expandir meus conhecimentos em desenvolvimento backend, segurança de sistemas e integração de APIs.
-
+![Captura de tela 2024-07-01 193307](https://github.com/JFcamp/ponto-eletronico/assets/149902237/2ddc596a-f47a-4514-94d4-1e4ddf311d0f)
+![Captura de tela 2024-07-01 193322](https://github.com/JFcamp/ponto-eletronico/assets/149902237/89709c16-c6ee-4936-a826-503da20767db)
 ## Instalação e Uso
 - **Requisitos:** Ter o Python instalado em sua máquina.
 - Basta copiar e colar o arquivo em seu diretório.
