@@ -13,6 +13,7 @@ Sistema de ponto eletrônico para uma gráfica com o objetivo de modernizar e au
 - **Backend:** Programa desenvolvido em Python utilizando bibliotecas como openpyxl para manipulação de dados Excel.
 - **Frontend:** Em desenvolvimento.
 - **Banco de Dados:** Utilizando o Excel com planilahs privadas.
+- 
 ![Captura de tela 2024-07-01 193322](https://github.com/JFcamp/ponto-eletronico/assets/149902237/89709c16-c6ee-4936-a826-503da20767db)
 
 ## Contribuições
